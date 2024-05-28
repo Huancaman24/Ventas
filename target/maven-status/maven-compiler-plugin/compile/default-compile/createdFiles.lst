@@ -1,0 +1,9 @@
+com\emergentes\modelo\Usuario.class
+com\emergentes\dao\ProductoDAO.class
+com\emergentes\dao\ClienteDAO.class
+com\emergentes\modelo\Venta.class
+com\emergentes\dao\VentaDAO.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\modelo\Producto.class
+com\emergentes\dao\UsuarioDAO.class
+com\emergentes\modelo\Cliente.class
